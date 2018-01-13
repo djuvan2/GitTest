@@ -17,4 +17,5 @@ namespace GitTest
             x = 2;
         }
     }
+    // Branch2 change2
 }
