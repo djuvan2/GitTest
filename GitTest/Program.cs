@@ -9,7 +9,7 @@ namespace GitTest
 {
     class Program
     {
-        static int x = 1;   //master change3
+        static int x = 1;   //master change4
 
         static void Main(string[] args)
         {
