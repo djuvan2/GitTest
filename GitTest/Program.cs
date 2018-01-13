@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 // branch1 change2
 namespace GitTest
 {
+    // master conflict change with branch3
     class Program
     {
         static int x = 1;   //master change5
