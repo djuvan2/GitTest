@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 // branch1 change2
 namespace GitTest
 {
-    // branch3 change1
+    // branch3 change2
     class Program
     {
         static int x = 1;   //master change3
