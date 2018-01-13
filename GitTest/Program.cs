@@ -8,8 +8,12 @@ namespace GitTest
 {
     class Program
     {
+        static int x = 1;
+
         static void Main(string[] args)
         {
+            Car car = new Car();
+            x = 2;
         }
     }
 }
