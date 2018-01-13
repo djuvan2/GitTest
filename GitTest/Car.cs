@@ -8,7 +8,7 @@ namespace GitTest
 {
     class Car
     {
-        int wheels = 0; //master change1
+        int wheels = 0; //master change2
 
         public Car()
         {
