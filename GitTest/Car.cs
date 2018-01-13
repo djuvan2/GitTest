@@ -15,5 +15,5 @@ namespace GitTest
             wheels = 4;
         }
     }
-    // Branch2 change1
+    // Branch2 change2
 }
