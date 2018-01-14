@@ -11,7 +11,7 @@ namespace GitTest
     // master conflict change with branch3
     class Program
     {
-        static int x = 1;   //master change5
+        static int x = 1;   //master change6
 
         static void Main(string[] args)
         {
