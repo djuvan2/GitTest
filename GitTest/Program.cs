@@ -10,7 +10,7 @@ namespace GitTest
     // branch5 change 6
     class Program
     {
-        static int x = 1;   //master change 12
+        static int x = 1;   //master change 13
 
         static void Main(string[] args)
         {
