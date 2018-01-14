@@ -14,7 +14,7 @@ namespace GitTest
 
         static void Main(string[] args)
         {
-            Car car = new Car();
+            Car car = new Car(); // master new change 1
             x = 2;
         }
         // branch 44 change3
